@@ -7,5 +7,5 @@
     int main () {
         pre;
         ll m,n;cin>>m>>n;
-        cout<<min(m,n);
+        cout<<max(m,n);
     }
